@@ -1,0 +1,11 @@
+C:\Users\aholl\OneDrive\Documents\c#\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe.config
+C:\Users\aholl\OneDrive\Documents\c#\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe
+C:\Users\aholl\OneDrive\Documents\c#\Assignment 1\Assignment 1\bin\Debug\Assignment 1.pdb
+C:\Users\aholl\OneDrive\Documents\c#\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csprojAssemblyReference.cache
+C:\Users\aholl\OneDrive\Documents\c#\Assignment 1\Assignment 1\obj\Debug\Assignment_1.Form1.resources
+C:\Users\aholl\OneDrive\Documents\c#\Assignment 1\Assignment 1\obj\Debug\Assignment_1.Properties.Resources.resources
+C:\Users\aholl\OneDrive\Documents\c#\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csproj.GenerateResource.cache
+C:\Users\aholl\OneDrive\Documents\c#\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\aholl\OneDrive\Documents\c#\Assignment 1\Assignment 1\obj\Debug\Assignment 1.exe
+C:\Users\aholl\OneDrive\Documents\c#\Assignment 1\Assignment 1\obj\Debug\Assignment 1.pdb
+C:\Users\aholl\OneDrive\Documents\c#\Assignment 1\Assignment 1\obj\Debug\Assignment_1.HighScore.resources
